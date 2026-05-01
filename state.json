@@ -1,0 +1,54 @@
+{
+  "last_updated": "2026-05-01T22:00:00Z",
+  "proteinocean": {
+    "https://proteinocean.com/creatine-daily": {
+      "name": "CREATINE DAILY+",
+      "original_price": 499.0,
+      "sale_price": 329.0,
+      "discount_pct": 34.1
+    },
+    "https://proteinocean.com/preworkout-lansman-1": {
+      "name": "PRE-WORKOUT SUPREME LANSMAN",
+      "original_price": 499.0,
+      "sale_price": 329.0,
+      "discount_pct": 34.1
+    },
+    "https://proteinocean.com/pea-protein-lansman": {
+      "name": "PEA PROTEIN LANSMAN",
+      "original_price": 599.0,
+      "sale_price": 399.0,
+      "discount_pct": 33.4
+    },
+    "https://proteinocean.com/alcar": {
+      "name": "ALCAR",
+      "original_price": 399.0,
+      "sale_price": 269.0,
+      "discount_pct": 32.6
+    },
+    "https://proteinocean.com/flava-vitamin-d3-k2": {
+      "name": "VİTAMİN D3 K2",
+      "original_price": 299.0,
+      "sale_price": 199.0,
+      "discount_pct": 33.4
+    },
+    "https://proteinocean.com/lionsmane-1": {
+      "name": "LION'S MANE",
+      "original_price": 499.0,
+      "sale_price": 299.0,
+      "discount_pct": 40.1
+    },
+    "https://proteinocean.com/mag-lthreonate-1": {
+      "name": "MAGNESIUM L-THREONATE",
+      "original_price": 499.0,
+      "sale_price": 299.0,
+      "discount_pct": 40.1
+    },
+    "https://proteinocean.com/citcoline": {
+      "name": "CITICOLINE",
+      "original_price": 499.0,
+      "sale_price": 299.0,
+      "discount_pct": 40.1
+    }
+  },
+  "takehiq": {}
+}
