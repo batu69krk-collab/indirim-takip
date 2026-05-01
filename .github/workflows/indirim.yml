@@ -1,0 +1,23 @@
+name: İndirim Takip
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  indirim-kontrol:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Python kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Kütüphaneleri yükle
+        run: pip install requests
+      
+      - name: İndirim kontrolü yap
+        run: python indirim_takip.py
